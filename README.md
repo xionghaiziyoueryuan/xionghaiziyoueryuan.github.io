@@ -1,4 +1,4 @@
-# xionghaiziyoueryuan.github.io
-此为团队页面仓库
+# xhzyey.github.io
+熊孩子幼儿园 的 团队页面
 
-团队页面的查看地址为：http://xionghaiziyoueryuan.github.io/
+git page的查看地址为：http://xionghaiziyoueryuan.github.io/
