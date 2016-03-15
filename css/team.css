@@ -58,38 +58,36 @@ li:hover{
 	font-size: 50px;
 	font-weight: lighter;
 }
-.introduce{
-	margin:0 auto;
+.headPic{
 	width:1200px;
-	margin-top: 30px;
+	margin:0 auto;
+	margin-top: 50px;
 }
 .box{
 	display:inline-block;
-	width:230px;
+	width:236px;
+	margin-bottom: 50px;
 }
 .boxText{
 	text-align: center;
-	margin-top: 20px;
 }
-.headPic{
+.block{
+	display:inline-block;
 	margin:0 auto;
-	width:980px;
-	margin-top: 50px;
 }
 img{
 	width:200px;
 	height:200px;
 	border-radius: 100px;
-	margin-left:30px;
 	display: block;
-	margin:0 auto;
+	margin-left:20px;
+	float:left;
 }
-
-
 .footer{
 	position:absolute;
 	bottom:0px;
 	line-height: 60px;
+	width:100%;
 }
 .footText{
 	text-align: center;
