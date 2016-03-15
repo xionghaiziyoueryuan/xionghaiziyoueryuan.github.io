@@ -94,6 +94,15 @@ img{
 	color:rgba(255,255,255,.6);
 }
 
+.introduceImg{
+	width:200px;
+	height:200px;
+	border-radius: 100px;
+	margin-left:30px;
+	display: block;
+	margin:0 auto;
+}
+
 
 
 
